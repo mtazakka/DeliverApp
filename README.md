@@ -16,3 +16,6 @@ Leave the server on, now run for Frontend
 `npm start`
 run depends on your emulator
 
+### EXPO
+'Scan the barcode to your phone'
+
